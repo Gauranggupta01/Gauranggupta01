@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurang Gupta</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">I am currently in my 3rd year at Indian Institute Of Information Technology Bhopal(IIIT BHOPAL).</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauranggupta01&label=Profile%20views&color=0e75b6&style=flat" alt="gauranggupta01" /> </p>
